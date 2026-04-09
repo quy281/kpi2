@@ -1,0 +1,12 @@
+{
+  "name": "MODI Marketing Tracker",
+  "short_name": "MODI Tracker",
+  "description": "Quản lý task 30 phút & KPI cho MODI Marketing Plan v3.1",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
